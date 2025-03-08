@@ -1,6 +1,5 @@
 # Food-Delivery-Time-Prediction-Using-ML
 
-# Food Delivery Time Prediction Using ML
 
 ## Project Overview
 In the fast-growing food delivery industry, accurately predicting delivery times is essential for improving **customer satisfaction** and **operational efficiency**. Companies like **Zomato** and **Swiggy** use machine learning algorithms to estimate delivery times, considering various factors such as traffic, weather conditions, and restaurant efficiency.
